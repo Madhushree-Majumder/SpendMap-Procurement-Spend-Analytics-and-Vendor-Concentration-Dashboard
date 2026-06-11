@@ -51,5 +51,5 @@ Power BI Desktop · Power Query (M) · DAX · Python (data generation)
 
 ## Dashboard
 
-![Spend Overview](Spend_Overview.png)
-![Off-Contract](Off-Contract.png)
+![Spend Overview](public/Spend_Overview.png)
+![Off-Contract](public/Off-Contract.png)
