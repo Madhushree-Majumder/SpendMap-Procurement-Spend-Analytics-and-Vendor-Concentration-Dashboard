@@ -1,4 +1,4 @@
-# SpendLens — AP Procurement Intelligence Dashboard
+# SpendMap — AP Procurement Intelligence Dashboard
 
 A Power BI dashboard that standardises messy vendor names, flags
 off-contract spend, and surfaces Pareto concentration insights
